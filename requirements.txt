@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+pdfplumber
+pytesseract
+groq
+google-generativeai
+python-dotenv
